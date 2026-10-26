@@ -1,4 +1,4 @@
-# Hi, I'm Egok 👋
+# Hi, I'm Shameek 👋
 
 ### Data Science | Machine Learning | Data Analytics
 
